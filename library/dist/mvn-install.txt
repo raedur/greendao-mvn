@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=daocore.jar -DgroupId=de.greenrobot -DartifactId=greenDAO-core-jar -Dversion=1.2.0 -Dpackaging=jar

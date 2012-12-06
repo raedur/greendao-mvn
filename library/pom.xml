@@ -1,8 +1,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>de.greenrobot.daogenerator</groupId>
-	<artifactId>greendao-example-daogenerator</artifactId>
+	<groupId>de.greenrobot</groupId>
+	<artifactId>greenDAO-maven</artifactId>
 	<version>3</version>
 	<packaging>pom</packaging>
 
@@ -18,8 +18,7 @@
 	</developers>
 
 	<modules>
-		<module>greendao-example-generator</module>
-		<module>greendao-example-dao</module>
+		<module>core</module>
 	</modules>
 	
 </project>
